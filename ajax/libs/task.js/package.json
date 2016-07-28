@@ -11,7 +11,6 @@
     "homepage": "http://chad.so"
   },
   "license": "ISC",
-  "homepage": "https://github.com/icodeforlove/task.js",
   "keywords": [
     "task.js",
     "workers"
@@ -25,15 +24,5 @@
         "**/*"
       ]
     }
-  ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/icodeforlove/task.js.git",
-    "basePath": "dist/client",
-    "files": [
-      "task.js",
-      "task.min.js",
-      "task.min.js.map"
-    ]
-  }
+  ]
 }
